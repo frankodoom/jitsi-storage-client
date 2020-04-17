@@ -8,5 +8,7 @@ Bash scripts for saving videos recorded by Jibri to external storage services
   * Configure Finalize_Upload in jibri config to point to the the script /usr/bin/dropbox_upload_client.sh
 
 #### Coming Soon ####
+* Guided Configuration by Initial Execution
 * Microsoft Azure
 * Amazon S3
+
