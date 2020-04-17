@@ -1,5 +1,5 @@
 # jitsi-storage-client
-Bash scripts for saving videos recorded by Jibri to external storage services
+Bash scripts for integrating external storage services into Jibri.
 
 ### Currently Supports ###
 * Dropbox
